@@ -1,0 +1,104 @@
+{
+  "slug": "/terms-and-conditions",
+  "seo": {
+    "title": "Terms & Conditions | SeaNeB News - Legal Agreement",
+    "description": "Review the legal terms and conditions for using SeaNeB News. Our agreement on responsible journalism and digital platform usage."
+  },
+  "document_info": {
+    "title": "TERMS AND CONDITIONS",
+    "last_updated": "February 27, 2026",
+    "contact_email": "hello@seaneb.org",
+    "contact_phone": "(+91)85117 32632",
+    "company_name": "SeaNeB Technologies",
+    "company_address": "FF 8, Madhav Arcade, Jol, Anand, Gujarat 388120, India"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "OUR SERVICES",
+      "content": "The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable."
+    },
+    {
+      "id": 2,
+      "title": "INTELLECTUAL PROPERTY RIGHTS",
+      "content": "Our intellectual property: We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the \"Content\"), as well as the trademarks, service marks, and logos contained therein (the \"Marks\").\n\nYour use of our Services: Subject to your compliance with these Legal Terms, including the \"PROHIBITED ACTIVITIES\" section below, we grant you a non-exclusive, non-transferable, revocable license to access the Services and download or print a copy of any portion of the Content to which you have properly gained access, solely for your personal, non-commercial use or internal business purpose."
+    },
+    {
+      "id": 3,
+      "title": "USER REPRESENTATIONS",
+      "content": "By using the Services, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Legal Terms; (4) you are not under the age of 13; (5) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services."
+    },
+    {
+      "id": 4,
+      "title": "USER REGISTRATION",
+      "content": "You may be required to register to use the Services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable."
+    },
+    {
+      "id": 5,
+      "title": "PROHIBITED ACTIVITIES",
+      "content": "You may not access or use the Services for any purpose other than that for which we make the Services available. As a user of the Services, you agree not to: \n- Systematically retrieve data or other content from the Services to create or compile a collection.\n- Trick, defraud, or mislead us and other users.\n- Circumvent, disable, or otherwise interfere with security-related features.\n- Disparage, tarnish, or otherwise harm us and/or the Services.\n- Use any information obtained from the Services in order to harass, abuse, or harm another person."
+    },
+    {
+      "id": 9,
+      "title": "THIRD-PARTY WEBSITES AND CONTENT",
+      "content": "The Services may contain links to other websites (\"Third-Party Websites\") as well as articles, photographs, and other content belonging to third parties. Such Third-Party Websites and Content are not investigated or monitored by us. We are not responsible for any Third-Party Websites accessed through the Services."
+    },
+    {
+      "id": 11,
+      "title": "SERVICES MANAGEMENT",
+      "content": "We reserve the right, but not the obligation, to: (1) monitor the Services for violations; (2) take appropriate legal action against anyone who violates these Legal Terms; (3) manage the Services in a manner designed to protect our rights and property."
+    },
+    {
+      "id": 16,
+      "title": "GOVERNING LAW",
+      "content": "These Legal Terms shall be governed by and defined following the laws of India. SeaNeB Technologies and yourself irrevocably consent that the courts of India shall have exclusive jurisdiction to resolve any dispute."
+    },
+    {
+      "id": 17,
+      "title": "DISPUTE RESOLUTION",
+      "content": "Binding Arbitration: Any dispute arising out of or in connection with these Legal Terms shall be referred to and finally resolved by arbitration. The seat of arbitration shall be Jol, Anand, Gujarat, India. The language of the proceedings shall be English and Gujarati."
+    },
+    {
+      "id": 19,
+      "title": "DISCLAIMER",
+      "content": "THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED."
+    },
+    {
+      "id": 20,
+      "title": "LIMITATIONS OF LIABILITY",
+      "content": "IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES."
+    },
+    {
+      "id": 25,
+      "title": "CONTACT US",
+      "content": "In order to resolve a complaint regarding the Services, please contact us at:\n\nSeaNeB Technologies\nFF 8, Madhav Arcade, Jol\nAnand, Gujarat 388120, India\nPhone: (+91)85117 32632\nEmail: hello@seaneb.org"
+    }
+  ],
+  "table_of_contents": [
+    "1. OUR SERVICES",
+    "2. INTELLECTUAL PROPERTY RIGHTS",
+    "3. USER REPRESENTATIONS",
+    "4. USER REGISTRATION",
+    "5. PROHIBITED ACTIVITIES",
+    "6. USER GENERATED CONTRIBUTIONS",
+    "7. CONTRIBUTION LICENSE",
+    "8. GUIDELINES FOR REVIEWS",
+    "9. THIRD-PARTY WEBSITES AND CONTENT",
+    "10. ADVERTISERS",
+    "11. SERVICES MANAGEMENT",
+    "12. PRIVACY POLICY",
+    "13. COPYRIGHT INFRINGEMENTS",
+    "14. TERM AND TERMINATION",
+    "15. MODIFICATIONS AND INTERRUPTIONS",
+    "16. GOVERNING LAW",
+    "17. DISPUTE RESOLUTION",
+    "18. CORRECTIONS",
+    "19. DISCLAIMER",
+    "20. LIMITATIONS OF LIABILITY",
+    "21. INDEMNIFICATION",
+    "22. USER DATA",
+    "23. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES",
+    "24. MISCELLANEOUS",
+    "25. CONTACT US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Seaneb News",
+  "short_name": "Seaneb",
+  "description": "Latest news from Anand, Gujarat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/assets/logo2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

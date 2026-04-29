@@ -1,0 +1,106 @@
+{
+  "slug": "/faqs",
+  "seo": {
+    "title": "SeaNeB News FAQs | Your Questions Answered about Hyperlocal News",
+    "description": "Frequently asked questions about SeaNeB News, our hyperlocal news ecosystem, independent journalism, and how to stay informed."
+  },
+  "title": "SeaNeB News FAQs",
+  "questions": [
+    { "q": "What is SeaNeB News?", "a": "SeaNeB News is a digital news platform that publishes breaking news, national headlines, and hyperlocal city and district-level updates across India. It allows verified local journalists and independent publishers to share authentic news directly with readers." },
+    { "q": "What kind of news does SeaNeB News publish?", "a": "SeaNeB News publishes: Breaking news, India and world news, City-wise and district-level local news, Business, technology, health, sports, and entertainment updates, Community and grassroots stories." },
+    { "q": "Is SeaNeB News a verified news website?", "a": "Yes. SeaNeB News follows an editorial review and verification process before publishing any article. Every story is reviewed to maintain accuracy, credibility, and transparency." },
+    { "q": "Is SeaNeB News reliable for local news?", "a": "Yes. SeaNeB News is especially focused on reliable local and regional reporting. We work with verified contributors and local journalists to ensure district-level and city-based news is authentic and fact-checked." },
+    { "q": "Who publishes news on SeaNeB News?", "a": "News is published by verified local journalists, independent reporters, regional news contributors, approved small news agencies, and our editorial team members." },
+    { "q": "How does SeaNeB News verify news?", "a": "We verify news by reviewing the source, cross-checking facts with credible references, confirming local event details, and screening submissions before publishing." },
+    { "q": "Is SeaNeB News free to read?", "a": "Yes. SeaNeB News is completely free to read. Users can access breaking news, local updates, and national headlines without any subscription fees." },
+    { "q": "Where does SeaNeB News get its local news from?", "a": "It comes from verified city and district-level journalists, community reporters, and regional correspondents." },
+    { "q": "How to find local news near me?", "a": "Visit SeaNeB News and select your city or district category for region-specific updates." },
+    { "q": "Which website gives city-wise local news?", "a": "SeaNeB News provides city-wise and district-level local news in India specific to your area." },
+    { "q": "Where can I read district-level news in India?", "a": "You can read verified district-level news on SeaNeB News under the Local Media and City News sections." },
+    { "q": "Best website for hyperlocal news in India?", "a": "SeaNeB News is a growing hyperlocal platform focused on community reporting and verified district-level news." },
+    { "q": "How to get verified local news updates?", "a": "Visit SeaNeB News, choose your city/state category, and follow the breaking updates section." },
+    { "q": "Does SeaNeB News provide city-based news?", "a": "Yes, through verified contributors across various Indian cities." },
+    { "q": "How to check today’s local news in my area?", "a": "Navigate to your city or district page on SeaNeB News for real-time updates." },
+    { "q": "Where can I find trusted regional news?", "a": "Trusted regional news is available on SeaNeB News, where articles are verified before publication." },
+    { "q": "How to publish news on SeaNeB News?", "a": "Register as a contributor, submit your article, and once the editorial team reviews and approves it, it will be published." },
+    { "q": "Who can become a news publisher on SeaNeB?", "a": "Independent journalists, local reporters, small news agencies, and community media contributors." },
+    { "q": "How can local journalists publish news online?", "a": "By registering on SeaNeB News and submitting their verified articles for review." },
+    { "q": "Is SeaNeB News open for independent journalists?", "a": "Yes, we support independent and grassroots journalists for verified local news." },
+    { "q": "How to submit news articles to SeaNeB News?", "a": "Through our publisher registration and submission system on the website." },
+    { "q": "Can small news agencies publish on SeaNeB?", "a": "Yes, small and regional news agencies can collaborate and publish verified stories." },
+    { "q": "Is publisher registration required on SeaNeB News?", "a": "Yes, to maintain credibility and prevent misuse of the platform." },
+    { "q": "How does SeaNeB News support local publishers?", "a": "By providing digital infrastructure, wider reach, editorial guidance, and visibility." },
+    { "q": "How to identify verified local news?", "a": "Look for credible sources, clear reporting details, editorial review, and transparent authorship." },
+    { "q": "How does SeaNeB News prevent fake news?", "a": "By reviewing submissions, verifying facts, and rejecting misleading content." },
+    { "q": "What makes a news source trustworthy?", "a": "Fact verification, transparency, avoiding sensationalism, and maintaining editorial standards." },
+    { "q": "Is SeaNeB News fact-checked?", "a": "Yes, all submissions go through editorial review and fact-checking." },
+    { "q": "How local news verification works?", "a": "It involves confirming event authenticity and checking reporter credentials." },
+    { "q": "Difference between verified news and fake news?", "a": "Verified news is sourced and fact-checked; fake news is unverified misinformation." },
+    { "q": "Where can I get breaking local news?", "a": "In the 'Breaking News' and 'Live Updates' sections of SeaNeB News." },
+    { "q": "Does SeaNeB News provide real-time updates?", "a": "Yes, for major local and national events." },
+    { "q": "How fast is breaking news published?", "a": "Quickly after verification to ensure both speed and accuracy." },
+    { "q": "Is breaking news on SeaNeB News reliable?", "a": "Yes, as it undergoes a review process even during rapid reporting." },
+    { "q": "How to get instant local news alerts?", "a": "Follow SeaNeB News regularly for real-time updates." },
+    { "q": "What is hyperlocal news?", "a": "News focusing on small geographic areas like cities, towns, or districts." },
+    { "q": "Why local journalism matters?", "a": "It keeps communities informed and holds authorities accountable at the grassroots level." },
+    { "q": "Difference between local and national news?", "a": "Local news covers city/district issues; national news covers country-wide events." },
+    { "q": "What is citizen journalism?", "a": "Ordinary individuals reporting news events within their own communities." },
+    { "q": "Role of local news in democracy?", "a": "It promotes transparency, awareness, and accountability." },
+    { "q": "Best local news website in India?", "a": "SeaNeB News is emerging as a top trusted hyperlocal platform." },
+    { "q": "Best alternative to local newspapers?", "a": "Digital platforms like SeaNeB News which offer faster, real-time updates." },
+    { "q": "Online vs print local news?", "a": "Online is faster and accessible anytime; print is limited by daily circulation." },
+    { "q": "Which website gives trusted local news?", "a": "SeaNeB News provides verified local news across India." },
+    { "q": "Where can I read real local news?", "a": "On SeaNeB News under the respective city and district categories." },
+    { "q": "Who provides reliable local news updates?", "a": "SeaNeB News through its network of verified journalists." },
+    { "q": "Where to find trusted local news?", "a": "On SeaNeB News through our verified regional reporting." },
+    { "q": "Solution for fake local news?", "a": "Read from verified platforms like SeaNeB News that have editorial review." },
+    { "q": "Platform for small local news publishers?", "a": "SeaNeB News offers a dedicated digital publishing platform for them." },
+    { "q": "How communities can access verified news?", "a": "By visiting SeaNeB News and selecting their local region." }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is SeaNeB News?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SeaNeB News is a digital news platform that publishes breaking news, national headlines, and hyperlocal city and district-level updates across India. It allows verified local journalists and independent publishers to share authentic news directly with readers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What kind of news does SeaNeB News publish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SeaNeB News publishes breaking news, India and world news, city-wise and district-level local news, business, technology, health, sports, entertainment, and community-based stories."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is SeaNeB News a verified news website?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. SeaNeB News follows an editorial review and verification process before publishing articles to ensure accuracy, credibility, and transparency."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is SeaNeB News reliable for local news?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. SeaNeB News focuses on verified local and regional reporting through screened contributors and fact-checking processes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How to publish news on SeaNeB News?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To publish news, register as a contributor, submit your article, and wait for editorial review and approval before publication."
+        }
+      }
+    ]
+  }
+}

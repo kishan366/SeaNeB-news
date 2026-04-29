@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/Home/[id]/page": "/Home/[id]",
+  "/Home/page": "/Home",
+  "/about/page": "/about",
+  "/Faqs/page": "/Faqs",
+  "/blogs/page": "/blogs",
+  "/page": "/",
+  "/contact/page": "/contact",
+  "/privacy/page": "/privacy",
+  "/partners/page": "/partners",
+  "/press-kit/page": "/press-kit",
+  "/partner-with-us/page": "/partner-with-us",
+  "/solutions/page": "/solutions"
+}

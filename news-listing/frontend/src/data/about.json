@@ -1,0 +1,39 @@
+{
+  "slug": "/about",
+  "seo": {
+    "title": "About SeaNeB News | India's Trusted Digital & Local News Platform",
+    "description": "Learn about SeaNeB News, a trusted digital news platform focused on breaking news, local journalism, and community-driven reporting across India."
+  },
+  "hero": {
+    "h1": "About SeaNeB News",
+    "tagline": "India's Trusted Digital & Local News Platform"
+  },
+  "content": {
+    "intro": "SeaNeB News was founded with a simple mission to make news more local, transparent, and accessible.",
+    "problem_statement": "In a world dominated by large media houses, many grassroots stories go unheard. SeaNeB changes that by empowering local journalists, regional reporters, and community contributors to publish directly on our platform.",
+    "closing": "SeaNeB stands for credibility, speed, and inclusivity. Our editorial team ensures every published story meets quality and factual standards. We are not just a news website, we are a community-driven digital media ecosystem."
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Vision",
+      "text": "To become India's most trusted hyperlocal digital news network."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "points": [
+        "Deliver accurate and unbiased news",
+        "Promote local journalism",
+        "Provide a publishing platform for verified contributors",
+        "Combine national and regional coverage"
+      ]
+    }
+  },
+  "coverage": [
+    "Breaking News",
+    "Political Updates",
+    "Business & Economy",
+    "Technology & Innovation",
+    "Entertainment & Culture",
+    "Health & Science"
+  ]
+}

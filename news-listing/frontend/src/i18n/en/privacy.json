@@ -1,0 +1,121 @@
+{
+  "slug": "/privacy",
+  "seo": {
+    "title": "Privacy Policy | SeaNeB News - Protecting Your Data",
+    "description": "Learn how SeaNeB News collects, uses, and protects your personal information. Our commitment to privacy and data security in hyperlocal news."
+  },
+  "document_info": {
+    "title": "PRIVACY POLICY",
+    "last_updated": "February 27, 2026",
+    "company_name": "SeaNeB Technologies",
+    "trading_as": "SeaNeB",
+    "website": "https://news.seaneb.com",
+    "contact_email": "hello@seaneb.org"
+  },
+  "introduction": {
+    "content": "This Privacy Notice for SeaNeB Technologies (doing business as SeaNeB) (\"we,\" \"us,\" or \"our\"), describes how and why we might access, collect, store, use, and/or share (\"process\") your personal information when you use our services (\"Services\"), including when you:",
+    "points": [
+      "Visit our website at https://news.seaneb.com or any website of ours that links to this Privacy Notice",
+      "Use SeaNeB News. Discover Real-Time Local To Global News Updates. Breaking News | Politics | Movies | Sports | Business | Tech | Science | Health | Trends & more.",
+      "Engage with us in other related ways, including any marketing or events"
+    ],
+    "footer_note": "Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at hello@seaneb.org."
+  },
+  "summary": {
+    "title": "SUMMARY OF KEY POINTS",
+    "description": "This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.",
+    "key_points": [
+      {
+        "question": "What personal information do we process?",
+        "answer": "When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use."
+      },
+      {
+        "question": "Do we process any sensitive personal information?",
+        "answer": "Some of the information may be considered \"special\" or \"sensitive\" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information."
+      },
+      {
+        "question": "Do we collect any information from third parties?",
+        "answer": "We do not collect any information from third parties."
+      },
+      {
+        "question": "How do we process your information?",
+        "answer": "We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so."
+      },
+      {
+        "question": "In what situations and with which parties do we share personal information?",
+        "answer": "We may share information in specific situations and with specific third parties."
+      },
+      {
+        "question": "How do we keep your information safe?",
+        "answer": "We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information."
+      },
+      {
+        "question": "What are your rights?",
+        "answer": "Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information."
+      },
+      {
+        "question": "How do you exercise your rights?",
+        "answer": "The easiest way to exercise your rights is by visiting __________, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws."
+      }
+    ]
+  },
+  "table_of_contents": [
+    "1. WHAT INFORMATION DO WE COLLECT?",
+    "2. HOW DO WE PROCESS YOUR INFORMATION?",
+    "3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?",
+    "4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?",
+    "5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?",
+    "6. HOW LONG DO WE KEEP YOUR INFORMATION?",
+    "7. HOW DO WE KEEP YOUR INFORMATION SAFE?",
+    "8. WHAT ARE YOUR PRIVACY RIGHTS?",
+    "9. CONTROLS FOR DO-NOT-TRACK FEATURES",
+    "10. DO WE MAKE UPDATES TO THIS NOTICE?",
+    "11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?",
+    "12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+  ],
+  "full_sections": {
+    "section_1": {
+      "title": "1. WHAT INFORMATION DO WE COLLECT?",
+      "subtitle": "Personal information you disclose to us",
+      "short_note": "In Short: We collect personal information that you provide to us.",
+      "content": "We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.",
+      "collected_items": [
+        "names",
+        "phone numbers",
+        "email addresses",
+        "mailing addresses",
+        "usernames",
+        "passwords",
+        "contact or authentication data",
+        "billing addresses",
+        "debit/credit card numbers"
+      ],
+      "sensitive_info_note": "Sensitive Information. We do not process sensitive information.",
+      "google_api_note": "Our use of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements."
+    },
+    "section_2": {
+      "title": "2. HOW DO WE PROCESS YOUR INFORMATION?",
+      "short_note": "In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.",
+      "purposes": [
+        "To facilitate account creation and authentication and otherwise manage user accounts.",
+        "To deliver and facilitate delivery of services to the user.",
+        "To respond to user inquiries/offer support to users.",
+        "To send you marketing and promotional communications."
+      ]
+    },
+    "section_5": {
+      "title": "5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?",
+      "short_note": "In Short: We may use cookies and other tracking technologies to collect and store your information.",
+      "google_analytics": "We may share your information with Google Analytics to track and analyze the use of the Services. The Google Analytics Advertising Features that we may use include: Google Display Network Impressions Reporting and Google Analytics Demographics and Interests Reporting."
+    },
+    "section_11": {
+      "title": "11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?",
+      "address": {
+        "company": "SeaNeB Technologies",
+        "street": "FF 8, Madhav Arcade",
+        "locality": "Jol, Anand, Gujarat 3883120",
+        "country": "India"
+      }
+    }
+  }
+}

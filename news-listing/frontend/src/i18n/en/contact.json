@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "h1": "Contact Our Newsroom",
+    "subtitle": "Direct access to our editorial, media, and support teams."
+  },
+  "communication_from": ["Local Journalists", "Independent Reporters", "Ad Agencies", "Readers"],
+  "departments": [
+    { "id": 1, "icon": "Newspaper", "title": "Editorial Query", "description": "Reach our editors for news corrections or story ideas." },
+    { "id": 2, "icon": "Megaphone", "title": "Advertising", "description": "Collaborate for digital ads and sponsored content." },
+    { "id": 3, "icon": "MailCheck", "title": "Verification", "description": "Submit documents for publisher account verification." }
+  ],
+  "form": {
+    "labels": { "who_reach": "Who can reach out?", "title": "Send a Message", "name": "Full Name", "email": "Email Address", "dept": "Department", "message": "Your Message", "btn": "Send Message" },
+    "placeholders": { "name": "Full name", "email": "Your's@example.com", "message": "How can we help you?" },
+    "options": ["Editorial Query", "News Submission", "Media & Advertising", "General Feedback"]
+  },
+  "footer_text": "We usually respond to all inquiries within 24 to 48 business hours."
+}

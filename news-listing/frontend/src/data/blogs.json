@@ -1,0 +1,94 @@
+{
+  "slug": "/blogs",
+  "seo": {
+    "title": "SeaNeB News Insights | Latest Trends in Hyperlocal News & Tech",
+    "description": "Stay updated with the latest trends in technology, design, business, and hyperlocal journalism with SeaNeB News insights."
+  },
+  "page": {
+    "title": "Our Insights & News",
+    "subtitle": "Stay updated with the latest trends in technology, design, and business."
+  },
+  "search": {
+    "placeholder": "Search for articles, topics...",
+    "results": "Showing results for",
+    "no_results": "No articles found matching your search."
+  },
+  "categories": {
+    "all": "All Posts",
+    "technology": "Technology",
+    "ai": "Artificial Intelligence",
+    "business": "Business",
+    "development": "Development",
+    "design": "Design",
+    "news": "Company News"
+  },
+  "featured": {
+    "title": "Featured Stories",
+    "read_more": "Full Story"
+  },
+  "article": {
+    "read_time": "min read",
+    "published_on": "Published on"
+  },
+  "popular": {
+    "title": "Most Popular",
+    "views": "views"
+  },
+  "newsletter": {
+    "title": "Weekly Insights",
+    "subtitle": "Get the best articles delivered to your inbox every week.",
+    "placeholder": "Your email address",
+    "button": "Subscribe Now",
+    "success": "Welcome to the community!"
+  },
+  "latest": {
+    "title": "Latest Articles",
+    "view_all": "View Archive"
+  },
+  "footer": {
+    "title": "Have a story to tell?",
+    "description": "We are always looking for guest contributors and tech enthusiasts.",
+    "button": "Contact Us"
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Future of Generative AI in 2026",
+      "excerpt": "Exploring how generative models are reshaping the workplace and creative industries faster than ever before.",
+      "category": "ai",
+      "author": { "name": "John Smith" },
+      "published": "2026-02-10",
+      "read_time": 5,
+      "views": 1240,
+      "likes": 85,
+      "comments": 12,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Why Clean Code Matters for Scaling Startups",
+      "excerpt": "A deep dive into architectural patterns and coding standards that prevent technical debt during rapid growth.",
+      "category": "development",
+      "author": { "name": "Sarah Dev" },
+      "published": "2026-01-25",
+      "read_time": 8,
+      "views": 3100,
+      "likes": 210,
+      "comments": 45,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Modern Design Systems for SaaS Products",
+      "excerpt": "How to build a scalable component library that keeps your UI consistent across multiple platforms.",
+      "category": "design",
+      "author": { "name": "Emma Grace" },
+      "published": "2026-02-05",
+      "read_time": 6,
+      "views": 950,
+      "likes": 64,
+      "comments": 8,
+      "featured": true
+    }
+  ]
+}

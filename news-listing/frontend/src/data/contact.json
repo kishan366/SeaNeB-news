@@ -1,0 +1,39 @@
+{
+  "slug": "/contact",
+  "seo": {
+    "title": "Contact SeaNeB News | Get in Touch with India's News Hub",
+    "description": "Contact the SeaNeB News team for inquiries, guest contributions, or technical support. We're here to help you connect with local news."
+  },
+  "hero": {
+    "h1": "Contact SeaNeB News",
+    "subtitle": "Have a news tip? Want to publish a story? Interested in media partnerships?"
+  },
+  "communication_from": [
+    "Local journalists",
+    "Freelance reporters",
+    "Media agencies",
+    "Advertisers",
+    "Readers"
+  ],
+  "departments": [
+    {
+      "id": "publish",
+      "title": "Publish Local News",
+      "description": "If you are a regional reporter or citizen journalist, you can submit your story directly to our editorial team for review.",
+      "icon": "Newspaper"
+    },
+    {
+      "id": "media",
+      "title": "Media & Advertising",
+      "description": "For advertising opportunities or brand collaborations, connect with our marketing team.",
+      "icon": "Megaphone"
+    },
+    {
+      "id": "editorial",
+      "title": "Editorial Queries",
+      "description": "For corrections, feedback, or press releases, reach out to our newsroom team.",
+      "icon": "MailCheck"
+    }
+  ],
+  "footer_text": "SeaNeB believes in open communication and transparent journalism."
+}

@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *)); /* Tailwind v4 specific */
+
+/* Marquee Animation */
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-101%); }
+}
+
+.animate-marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 30s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /*  Noto Sans Variable Define Kiya */
+  --font-noto-sans: var(--font-noto-sans); 
+}
+
+.dark {
+  --background: #020617; 
+  --foreground: #ededed;
+}
+
+/* System preference fallback */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+:root inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /*  Geist ko Noto Sans se replace kiya */
+  --font-sans: var(--font-noto-sans);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  /*  Default font Arial se badal kar Noto Sans kar diya */
+  font-family: var(--font-noto-sans), Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

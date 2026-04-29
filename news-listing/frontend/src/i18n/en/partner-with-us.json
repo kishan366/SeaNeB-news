@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "url": "https://news.seaneb.com/partner-with-us",
+    "slug": "/partner-with-us",
+    "seo_title": "Partner With SeaNeB News | Publish Local & Hyperlocal News in India",
+    "meta_description": "Partner with SeaNeB News to publish verified local news, district updates, and breaking stories. Join India’s growing hyperlocal digital news network today."
+  },
+  "content": {
+    "h1": "Partner With SeaNeB News",
+    "h1_highlight": "Empowering Local Journalism Across India",
+    "intro": "SeaNeB News is India’s emerging hyperlocal digital news platform designed to amplify city-wise, district-level, and community-driven journalism.",
+    "sub_intro": "We believe every town, district, and region has stories that deserve national visibility.",
+    "target_audience": [
+      "A local journalist",
+      "An independent reporter",
+      "A small news agency",
+      "A district-level publisher",
+      "A community media startup"
+    ],
+    "why_partner": {
+      "title": "Why Partner With SeaNeB News?",
+      "items": [
+        { "title": "National Visibility", "desc": "Your regional news reaches a wider digital audience across India." },
+        { "title": "Verified System", "desc": "We maintain editorial review and verification to protect credibility." },
+        { "title": "Independent Support", "desc": "No need for a big media house — publish professionally online." },
+        { "title": "Hyperlocal Focus", "desc": "Unlike large platforms, we prioritize city, district, and civic issues." }
+      ]
+    },
+    "who_can_join": [
+      "Independent journalists", "Freelance reporters", "Regional correspondents",
+      "Small news agencies", "Citizen journalists", "Digital publishers"
+    ],
+    "steps": [
+      "Register as a news partner",
+      "Submit required verification details",
+      "Get approval from the editorial team",
+      "Start publishing verified local news",
+      "Reach a larger audience instantly"
+    ],
+    "faqs": [
+      { "q": "How can I partner with SeaNeB News?", "a": "You can partner by registering as a contributor, submitting verification details, and getting editorial approval." },
+      { "q": "Who can become a partner?", "a": "Independent journalists, local reporters, and small agencies can join after verification." },
+      { "q": "Do I need verification?", "a": "Yes. Verification is required to maintain credibility and prevent fake news." }
+    ]
+  }
+}

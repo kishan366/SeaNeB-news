@@ -1,0 +1,44 @@
+{
+  "slug": "/press-kit",
+  "seo": {
+    "title": "SeaNeB News Press Kit | Media Assets & Brand Guidelines",
+    "description": "Access SeaNeB News media assets, logos, brand guidelines, and press materials for newsrooms and journalists."
+  },
+  "content": {
+    "h1": "SeaNeB News Press Kit | Media & Partnership Information",
+    "intro": "SeaNeB News is a fast-growing digital and hyperlocal news platform in India focused on delivering verified city-wise, district-level, and national news updates.",
+    "empowerment": [
+      "Local journalists",
+      "Independent reporters",
+      "Small news agencies",
+      "Regional publishers"
+    ],
+    "mission": "To create a trusted digital ecosystem where local journalism thrives, misinformation is reduced, and communities receive verified news that truly impacts their daily lives.",
+    "features": [
+      { "title": "Hyperlocal Focus", "desc": "We prioritize city and district-level reporting." },
+      { "title": "Open Publishing Model", "desc": "Verified contributors can publish directly after approval." },
+      { "title": "Editorial Review System", "desc": "Every story undergoes screening before publication." },
+      { "title": "Free & Accessible", "desc": "SeaNeB News is free for readers across India." }
+    ],
+    "highlights": [
+      "Digital-first news platform", "Hyperlocal + National coverage", 
+      "Breaking News & Live Updates", "Structured editorial workflow", 
+      "Contributor verification process", "Focus on transparency and credibility"
+    ],
+    "categories": [
+      "Breaking News", "India & World News", "Business & Economy", 
+      "Technology & Innovation", "Health & Lifestyle", "Sports", 
+      "Entertainment", "Community & Civic Updates"
+    ],
+    "partnerships": [
+      "Media houses", "Digital publishers", "PR agencies", 
+      "Local news networks", "Regional content creators"
+    ],
+    "contact_email": "press@news.seaneb.com",
+    "faqs": [
+      { "q": "What is SeaNeB News?", "a": "SeaNeB News is a digital hyperlocal news platform in India that publishes verified city-wise, district-level, and national news updates." },
+      { "q": "What makes SeaNeB News different?", "a": "SeaNeB focuses on hyperlocal reporting and allows verified independent journalists to publish after review." },
+      { "q": "Is it open for partnerships?", "a": "Yes. SeaNeB News welcomes media houses, PR agencies, and digital publishers for collaboration." }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "/partner-with-us",
+  "seo": {
+    "title": "Partner with SeaNeB News | Scale Your Digital News Reach",
+    "description": "Join the SeaNeB News ecosystem. Partner with us to empower local journalists and expand your digital presence in hyperlocal news.",
+    "keywords": [
+      "Partner with SeaNeB",
+      "Local Journalism India",
+      "Hyperlocal News Network",
+      "Publish News Online",
+      "Verified News Partner",
+      "District News Updates"
+    ],
+    "og_image": "https://news.seaneb.com/assets/og/partner-banner.jpg"
+  },
+  "page_info": {
+    "name": "Partner With Us",
+    "url": "https://news.seaneb.com/partner-with-us",
+    "status": "published",
+    "last_updated": "2026-03-03"
+  },
+  "schema": {
+    "type": "FAQPage",
+    "questions": [
+      {
+        "q": "How can I partner with SeaNeB News?",
+        "a": "You can partner with SeaNeB News by registering as a news contributor, submitting verification details, and getting editorial approval to publish verified local news."
+      },
+      {
+        "q": "Who can become a partner on SeaNeB News?",
+        "a": "Independent journalists, local reporters, small news agencies, and regional publishers can become partners after verification."
+      }
+    ]
+  },
+  "content": {
+    "hero": {
+      "h1": "Partner With SeaNeB News",
+      "h1_sub": "Empowering Local Journalism Across India",
+      "intro": "SeaNeB News is India’s emerging hyperlocal digital news platform designed to amplify city-wise, district-level, and community-driven journalism."
+    },
+    "eligibility": [
+      "Local journalist",
+      "Independent reporter",
+      "Small news agency",
+      "District-level publisher",
+      "Community media startup"
+    ],
+    "process_steps": [
+      "Register as a news partner",
+      "Submit required verification details",
+      "Get approval from the editorial team",
+      "Start publishing verified local news",
+      "Reach a larger audience instantly"
+    ],
+    "benefits": [
+      {
+        "id": 1,
+        "title": "National Visibility",
+        "description": "Your regional news reaches a wider digital audience across India."
+      },
+      {
+        "id": 2,
+        "title": "Verified System",
+        "description": "We maintain editorial review and verification to protect credibility."
+      }
+    ],
+    "contact": {
+      "email": "partners@news.seaneb.com",
+      "cta_text": "Become a SeaNeB News Partner Today"
+    }
+  }
+}

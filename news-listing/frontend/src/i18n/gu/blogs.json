@@ -1,0 +1,227 @@
+{
+  "page": {
+    "title": "અમારા બ્લોગ્સ",
+    "subtitle": "અમારી ટીમ તરફથી આંતરદૃષ્ટિ, અપડેટ્સ અને વાર્તાઓ"
+  },
+  "hero": {
+    "title": "નવીનતમ આંતરદૃષ્ટિ અને અપડેટ્સ",
+    "description": "ટેક્નોલોજી અને વ્યવસાયની દુનિયામાંથી નવીનતમ વલણો, ટિપ્સ અને વાર્તાઓ સાથે અપડેટ રહો.",
+    "cta": "બધા લેખો બ્રાઉઝ કરો"
+  },
+  "categories": {
+    "title": "શ્રેણી દ્વારા બ્રાઉઝ કરો",
+    "all": "બધી પોસ્ટ્સ",
+    "technology": "ટેક્નોલોજી",
+    "business": "વ્યવસાય",
+    "design": "ડિઝાઇન",
+    "development": "વિકાસ",
+    "ai": "એઆઇ અને એમએલ",
+    "cloud": "ક્લાઉડ કમ્પ્યુટિંગ",
+    "mobile": "મોબાઇલ એપ્સ",
+    "news": "કંપની સમાચાર"
+  },
+  "featured": {
+    "title": "વિશેષ લેખ",
+    "read_more": "વધુ વાંચો"
+  },
+  "latest": {
+    "title": "નવીનતમ લેખો",
+    "view_all": "બધા લેખો જુઓ"
+  },
+  "popular": {
+    "title": "લોકપ્રિય પોસ્ટ્સ",
+    "views": "દૃશ્યો"
+  },
+  "newsletter": {
+    "title": "અમારા ન્યૂઝલેટરની સબ્સ્ક્રાઇબ કરો",
+    "subtitle": "નવીનતમ અપડેટ્સ અને આંતરદૃષ્ટિ સીધા તમારા ઇનબૉક્સમાં મેળવો.",
+    "placeholder": "તમારો ઇમેઇલ દાખલ કરો",
+    "button": "સબ્સ્ક્રાઇબ કરો",
+    "success": "સફળતાપૂર્વક સબ્સ્ક્રાઇબ કર્યું!",
+    "error": "સબ્સ્ક્રિપ્શન નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો."
+  },
+  "search": {
+    "placeholder": "લેખો શોધો...",
+    "button": "શોધો",
+    "no_results": "કોઈ લેખ મળ્યા નથી",
+    "results": "શોધ પરિણામો"
+  },
+  "article": {
+    "read_time": "મિનિટ વાંચન સમય",
+    "published": "પ્રકાશિત",
+    "updated": "અપડેટ કરાયું",
+    "author": "લેખક",
+    "share": "આ લેખ શેર કરો",
+    "related": "સંબંધિત લેખો",
+    "tags": "ટૅગ્સ",
+    "comments": "ટિપ્પણીઓ",
+    "leave_comment": "ટિપ્પણી લખો"
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "title": "નેક્સ્ટ.જેએસ 14 સાથે શરૂઆત",
+      "excerpt": "નેક્સ્ટ.જેએસ 14 અને તેની નવી સુવિધાઓ જેમ કે સર્વર એક્શન અને આંશિક પ્રીરેન્ડરિંગ સાથે આધુનિક વેબ એપ્લિકેશન્સ બનાવવાનું શીખો.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "technology",
+      "tags": ["નેક્સ્ટ.જેએસ", "રિએક્ટ", "વેબ ડેવલપમેન્ટ"],
+      "author": {
+        "name": "જોન ડો",
+        "avatar": "/assets/authors/john-doe.jpg",
+        "bio": "સિનિયર ફ્રન્ટએન્ડ ડેવલપર"
+      },
+      "published": "2024-03-15",
+      "read_time": 5,
+      "views": 1234,
+      "likes": 89,
+      "comments": 23,
+      "featured": true,
+      "image": "/assets/blogs/nextjs-14.jpg"
+    },
+    {
+      "id": 2,
+      "title": "વ્યવસાયમાં એઆઈનું ભવિષ્ય",
+      "excerpt": "જાણો કે કેવી રીતે આર્ટિફિશિયલ ઇન્ટેલિજન્સ વ્યવસાયોને બદલી રહ્યું છે અને વિકાસ માટે નવી તકો બનાવી રહ્યું છે.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "ai",
+      "tags": ["એઆઇ", "મશીન લર્નિંગ", "વ્યવસાય"],
+      "author": {
+        "name": "જેન સ્મિથ",
+        "avatar": "/assets/authors/jane-smith.jpg",
+        "bio": "એઆઈ રિસર્ચ લીડ"
+      },
+      "published": "2024-03-10",
+      "read_time": 8,
+      "views": 2156,
+      "likes": 156,
+      "comments": 34,
+      "featured": true,
+      "image": "/assets/blogs/ai-business.jpg"
+    },
+    {
+      "id": 3,
+      "title": "રિએક્ટ પ્રદર્શનમાં માસ્ટરી",
+      "excerpt": "વધુ સારા પ્રદર્શન અને વપરાશકર્તા અનુભવ માટે તમારી રિએક્ટ એપ્લિકેશન્સને ઑપ્ટિમાઇઝ કરવાની ટિપ્સ અને ટ્રિક્સ.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "development",
+      "tags": ["રિએક્ટ", "પ્રદર્શન", "ઑપ્ટિમાઇઝેશન"],
+      "author": {
+        "name": "માઇક જોહ્ન્સન",
+        "avatar": "/assets/authors/mike-johnson.jpg",
+        "bio": "પ્રદર્શન એન્જિનિયર"
+      },
+      "published": "2024-03-05",
+      "read_time": 6,
+      "views": 987,
+      "likes": 67,
+      "comments": 12,
+      "featured": false,
+      "image": "/assets/blogs/react-performance.jpg"
+    },
+    {
+      "id": 4,
+      "title": "ક્લાઉડ માઇગ્રેશન વ્યૂહરચનાઓ",
+      "excerpt": "તમારા ઇન્ફ્રાસ્ટ્રક્ચરને સફળતાપૂર્વક ક્લાઉડ પર સ્થાનાંતરિત કરવા માટે એક વ્યાપક માર્ગદર્શિકા.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "cloud",
+      "tags": ["ક્લાઉડ", "એડબ્લ્યુએસ", "ડેવઓપ્સ"],
+      "author": {
+        "name": "સારા વિલ્સન",
+        "avatar": "/assets/authors/sarah-wilson.jpg",
+        "bio": "ક્લાઉડ આર્કિટેક્ટ"
+      },
+      "published": "2024-02-28",
+      "read_time": 10,
+      "views": 1432,
+      "likes": 98,
+      "comments": 21,
+      "featured": false,
+      "image": "/assets/blogs/cloud-migration.jpg"
+    },
+    {
+      "id": 5,
+      "title": "2024 માટે યુઆઇ/યુએક્સ ડિઝાઇન સિદ્ધાંતો",
+      "excerpt": "નવીનતમ ડિઝાઇન વલણો અને સિદ્ધાંતોનું અન્વેષણ કરો જે 2024 માં વપરાશકર્તા અનુભવોને આકાર આપી રહ્યા છે.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "design",
+      "tags": ["યુઆઇ", "યુએક્સ", "ડિઝાઇન"],
+      "author": {
+        "name": "એમિલી ચેન",
+        "avatar": "/assets/authors/emily-chen.jpg",
+        "bio": "લીડ યુએક્સ ડિઝાઇનર"
+      },
+      "published": "2024-02-20",
+      "read_time": 7,
+      "views": 1654,
+      "likes": 134,
+      "comments": 28,
+      "featured": false,
+      "image": "/assets/blogs/ui-design.jpg"
+    },
+    {
+      "id": 6,
+      "title": "સ્કેલેબલ મોબાઇલ એપ્સ બનાવવી",
+      "excerpt": "મોબાઇલ એપ્લિકેશન્સ વિકસાવવા માટે શ્રેષ્ઠ પ્રથાઓ જે તમારા વપરાશકર્તા આધાર સાથે સ્કેલ કરી શકે છે.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "mobile",
+      "tags": ["મોબાઇલ", "રિએક્ટ નેટિવ", "ફ્લટર"],
+      "author": {
+        "name": "ડેવિડ બ્રાઉન",
+        "avatar": "/assets/authors/david-brown.jpg",
+        "bio": "મોબાઇલ ટેક લીડ"
+      },
+      "published": "2024-02-15",
+      "read_time": 6,
+      "views": 876,
+      "likes": 54,
+      "comments": 15,
+      "featured": false,
+      "image": "/assets/blogs/mobile-apps.jpg"
+    },
+    {
+      "id": 7,
+      "title": "કંપની અપડેટ: નવી ઓફિસ ખુલી",
+      "excerpt": "અમે બેંગલોર, ભારતમાં અમારી નવી ઓફિસના ઉદ્ઘાટનની જાહેરાત કરતા ઉત્સાહિત છીએ.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "news",
+      "tags": ["કંપની", "સમાચાર", "વિસ્તરણ"],
+      "author": {
+        "name": "મેનેજમેન્ટ ટીમ",
+        "avatar": "/assets/authors/team.jpg",
+        "bio": "સીનેબ મેનેજમેન્ટ"
+      },
+      "published": "2024-02-10",
+      "read_time": 3,
+      "views": 2456,
+      "likes": 312,
+      "comments": 45,
+      "featured": true,
+      "image": "/assets/blogs/new-office.jpg"
+    },
+    {
+      "id": 8,
+      "title": "મશીન લર્નિંગનો પરિચય",
+      "excerpt": "મશીન લર્નિંગ ખ્યાલો અને તેમના ઉપયોગોને સમજવા માટે શરૂઆત કરનાર માટે માર્ગદર્શિકા.",
+      "content": "સંપૂર્ણ લેખ અહીં...",
+      "category": "ai",
+      "tags": ["એમએલ", "એઆઇ", "ડેટા સાયન્સ"],
+      "author": {
+        "name": "ડૉ. એલન ટ્યુરિંગ",
+        "avatar": "/assets/authors/alan-turing.jpg",
+        "bio": "એઆઈ સંશોધક"
+      },
+      "published": "2024-02-05",
+      "read_time": 12,
+      "views": 1876,
+      "likes": 203,
+      "comments": 41,
+      "featured": false,
+      "image": "/assets/blogs/ml-intro.jpg"
+    }
+  ],
+  "footer": {
+    "title": "અમારા માટે લખવા માંગો છો?",
+    "description": "અમે હંમેશા અમારા બ્લોગમાં યોગદાન આપવા માટે પ્રતિભાશાળી લેખકોની શોધમાં રહીએ છીએ.",
+    "button": "યોગદાનકર્તા બનો"
+  }
+}

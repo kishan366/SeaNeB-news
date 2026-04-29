@@ -1,0 +1,123 @@
+{
+  "seo": {
+    "title": "SeaNeB News Solutions | Trusted Hyperlocal News & Publishing Platform",
+    "description": "Discover how SeaNeB News solves fake news, supports local journalists, and delivers verified hyperlocal news across India through a trusted digital publishing platform."
+  },
+  "hero": {
+    "title": "SeaNeB News Solutions",
+    "subtitle": "A Trusted Hyperlocal News Ecosystem built to empower local journalists and protect readers from misinformation."
+  },
+  "problem": {
+    "title": "The Problem: Why Local News Needs a Better System",
+    "description": "In today’s digital world, local journalism faces serious challenges that prevent communities from accessing verified information.",
+    "challenges": [
+      "Fake news spreading rapidly",
+      "Small journalists lacking visibility",
+      "District-level stories ignored by national media",
+      "No structured platform for independent publishers",
+      "Communities struggling to find trusted local updates"
+    ],
+    "footer": "Many city and district-level stories never reach a wider audience. This creates a gap between communities and credible information."
+  },
+  "solutions": {
+    "title": "The SeaNeB Solution",
+    "items": [
+      {
+        "id": 1,
+        "title": "Solution for Fake Local News",
+        "description": "SeaNeB News implements a rigorous process to ensure every story is accurate and responsible.",
+        "points": [
+          "Editorial review before publishing",
+          "Contributor verification",
+          "Source screening",
+          "Fact-checking processes"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Solution for Small & Independent Journalists",
+        "description": "We empower reporters who lack digital infrastructure or a large media network.",
+        "points": [
+          "Digital publishing platform",
+          "Wider audience visibility",
+          "Structured article management",
+          "Professional presentation"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Solution for Communities Seeking Trusted Local News",
+        "description": "We bridge the gap between people and the breaking news in their own neighborhoods.",
+        "points": [
+          "City-wise coverage",
+          "District-level reporting",
+          "Breaking local news updates",
+          "Verified regional content"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Solution for Regional News Agencies",
+        "description": "SeaNeB acts as a digital amplifier for regional journalism and small agencies.",
+        "points": [
+          "Partner with SeaNeB",
+          "Publish verified content",
+          "Expand digital reach",
+          "Build credibility online"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Solution for Real-Time Breaking News",
+        "description": "We combine speed with editorial screening to ensure reliable updates.",
+        "points": [
+          "Speed with verification",
+          "Editorial screening",
+          "Digital-first publishing"
+        ]
+      }
+    ]
+  },
+  "commitment": {
+    "title": "Our Commitment",
+    "description": "We believe strong local journalism builds stronger communities.",
+    "points": [
+      "Promoting hyperlocal journalism",
+      "Supporting independent reporters",
+      "Reducing fake news",
+      "Strengthening grassroots democracy",
+      "Delivering verified digital news"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How does SeaNeB News solve fake local news problems?",
+      "answer": "SeaNeB News reduces fake news by verifying contributors, reviewing submissions, and fact-checking content before publication."
+    },
+    {
+      "question": "How does SeaNeB support independent journalists?",
+      "answer": "SeaNeB provides a structured digital platform where independent journalists can publish verified local news and reach a wider audience."
+    },
+    {
+      "question": "Why is hyperlocal news important?",
+      "answer": "Hyperlocal news keeps communities informed about district-level issues, civic updates, and regional developments that national media may overlook."
+    },
+    {
+      "question": "What problem does SeaNeB News solve for readers?",
+      "answer": "SeaNeB helps readers access trusted city-based and district-level news without relying on unverified social media sources."
+    },
+    {
+      "question": "Can small news agencies benefit from SeaNeB?",
+      "answer": "Yes. Small and regional news agencies can partner with SeaNeB to expand their reach and publish verified digital news."
+    },
+    {
+      "question": "How does SeaNeB ensure breaking news is reliable?",
+      "answer": "Even breaking news goes through editorial screening and verification before publication to ensure accuracy."
+    }
+  ],
+  "cta": {
+    "title": "Join the Hyperlocal Revolution",
+    "subtitle": "Empowering local voices, one story at a time.",
+    "button": "Get Started"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "/home",
+  "seo": {
+    "title": "Breaking News Today | हिंदी न्यूज़, ताजा खबरें & Local News Platform | SeaNeB News",
+    "description": "Read breaking news today, हिंदी समाचार, local news, and trending headlines from India and around the world. Publish your local news directly on SeaNeB News."
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    "name": "SeaNeB News",
+    "url": "https://seaneb.com/home",
+    "description": "Read breaking news today, हिंदी समाचार, local news, and trending headlines."
+  }
+}

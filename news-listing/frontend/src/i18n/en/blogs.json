@@ -1,0 +1,227 @@
+{
+  "page": {
+    "title": "Our Blogs",
+    "subtitle": "Insights, updates, and stories from our team"
+  },
+  "hero": {
+    "title": "Latest Insights & Updates",
+    "description": "Stay updated with the latest trends, tips, and stories from the world of technology and business.",
+    "cta": "Browse All Articles"
+  },
+  "categories": {
+    "title": "Browse by Category",
+    "all": "All Posts",
+    "technology": "Technology",
+    "business": "Business",
+    "design": "Design",
+    "development": "Development",
+    "ai": "AI & ML",
+    "cloud": "Cloud Computing",
+    "mobile": "Mobile Apps",
+    "news": "Company News"
+  },
+  "featured": {
+    "title": "Featured Article",
+    "read_more": "Read More"
+  },
+  "latest": {
+    "title": "Latest Articles",
+    "view_all": "View All Articles"
+  },
+  "popular": {
+    "title": "Popular Posts",
+    "views": "views"
+  },
+  "newsletter": {
+    "title": "Subscribe to Our Newsletter",
+    "subtitle": "Get the latest updates and insights delivered straight to your inbox.",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "success": "Successfully subscribed!",
+    "error": "Subscription failed. Please try again."
+  },
+  "search": {
+    "placeholder": "Search articles...",
+    "button": "Search",
+    "no_results": "No articles found",
+    "results": "Search Results"
+  },
+  "article": {
+    "read_time": "min read",
+    "published": "Published on",
+    "updated": "Updated on",
+    "author": "Author",
+    "share": "Share this article",
+    "related": "Related Articles",
+    "tags": "Tags",
+    "comments": "Comments",
+    "leave_comment": "Leave a Comment"
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with Next.js 14",
+      "excerpt": "Learn how to build modern web applications with Next.js 14 and its new features like server actions and partial prerendering.",
+      "content": "Full article content here...",
+      "category": "technology",
+      "tags": ["Next.js", "React", "Web Development"],
+      "author": {
+        "name": "John Doe",
+        "avatar": "/assets/authors/john-doe.jpg",
+        "bio": "Senior Frontend Developer"
+      },
+      "published": "2024-03-15",
+      "read_time": 5,
+      "views": 1234,
+      "likes": 89,
+      "comments": 23,
+      "featured": true,
+      "image": "/assets/blogs/nextjs-14.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Future of AI in Business",
+      "excerpt": "Discover how artificial intelligence is transforming businesses and creating new opportunities for growth.",
+      "content": "Full article content here...",
+      "category": "ai",
+      "tags": ["AI", "Machine Learning", "Business"],
+      "author": {
+        "name": "Jane Smith",
+        "avatar": "/assets/authors/jane-smith.jpg",
+        "bio": "AI Research Lead"
+      },
+      "published": "2024-03-10",
+      "read_time": 8,
+      "views": 2156,
+      "likes": 156,
+      "comments": 34,
+      "featured": true,
+      "image": "/assets/blogs/ai-business.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mastering React Performance",
+      "excerpt": "Tips and tricks to optimize your React applications for better performance and user experience.",
+      "content": "Full article content here...",
+      "category": "development",
+      "tags": ["React", "Performance", "Optimization"],
+      "author": {
+        "name": "Mike Johnson",
+        "avatar": "/assets/authors/mike-johnson.jpg",
+        "bio": "Performance Engineer"
+      },
+      "published": "2024-03-05",
+      "read_time": 6,
+      "views": 987,
+      "likes": 67,
+      "comments": 12,
+      "featured": false,
+      "image": "/assets/blogs/react-performance.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cloud Migration Strategies",
+      "excerpt": "A comprehensive guide to migrating your infrastructure to the cloud successfully.",
+      "content": "Full article content here...",
+      "category": "cloud",
+      "tags": ["Cloud", "AWS", "DevOps"],
+      "author": {
+        "name": "Sarah Wilson",
+        "avatar": "/assets/authors/sarah-wilson.jpg",
+        "bio": "Cloud Architect"
+      },
+      "published": "2024-02-28",
+      "read_time": 10,
+      "views": 1432,
+      "likes": 98,
+      "comments": 21,
+      "featured": false,
+      "image": "/assets/blogs/cloud-migration.jpg"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design Principles for 2024",
+      "excerpt": "Explore the latest design trends and principles that are shaping user experiences in 2024.",
+      "content": "Full article content here...",
+      "category": "design",
+      "tags": ["UI", "UX", "Design"],
+      "author": {
+        "name": "Emily Chen",
+        "avatar": "/assets/authors/emily-chen.jpg",
+        "bio": "Lead UX Designer"
+      },
+      "published": "2024-02-20",
+      "read_time": 7,
+      "views": 1654,
+      "likes": 134,
+      "comments": 28,
+      "featured": false,
+      "image": "/assets/blogs/ui-design.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Building Scalable Mobile Apps",
+      "excerpt": "Best practices for developing mobile applications that can scale with your user base.",
+      "content": "Full article content here...",
+      "category": "mobile",
+      "tags": ["Mobile", "React Native", "Flutter"],
+      "author": {
+        "name": "David Brown",
+        "avatar": "/assets/authors/david-brown.jpg",
+        "bio": "Mobile Tech Lead"
+      },
+      "published": "2024-02-15",
+      "read_time": 6,
+      "views": 876,
+      "likes": 54,
+      "comments": 15,
+      "featured": false,
+      "image": "/assets/blogs/mobile-apps.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Company Update: New Office Opening",
+      "excerpt": "We're excited to announce the opening of our new office in Bangalore, India.",
+      "content": "Full article content here...",
+      "category": "news",
+      "tags": ["Company", "News", "Expansion"],
+      "author": {
+        "name": "Management Team",
+        "avatar": "/assets/authors/team.jpg",
+        "bio": "SEANEB Management"
+      },
+      "published": "2024-02-10",
+      "read_time": 3,
+      "views": 2456,
+      "likes": 312,
+      "comments": 45,
+      "featured": true,
+      "image": "/assets/blogs/new-office.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Machine Learning",
+      "excerpt": "A beginner's guide to understanding machine learning concepts and their applications.",
+      "content": "Full article content here...",
+      "category": "ai",
+      "tags": ["ML", "AI", "Data Science"],
+      "author": {
+        "name": "Dr. Alan Turing",
+        "avatar": "/assets/authors/alan-turing.jpg",
+        "bio": "AI Researcher"
+      },
+      "published": "2024-02-05",
+      "read_time": 12,
+      "views": 1876,
+      "likes": 203,
+      "comments": 41,
+      "featured": false,
+      "image": "/assets/blogs/ml-intro.jpg"
+    }
+  ],
+  "footer": {
+    "title": "Want to write for us?",
+    "description": "We're always looking for talented writers to contribute to our blog.",
+    "button": "Become a Contributor"
+  }
+}
